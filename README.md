@@ -17,13 +17,13 @@ Hugging Face Transformers Library
 Gradio Library
 
 ## Usage
-#### Installation:
-## Installation
+
+### Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/doeabla/Sentiment_analysis.git
     cd your-repository
     ```
 
@@ -45,4 +45,34 @@ Gradio Library
     pip install gradio
     ```
 
+* Run the App: gradio_sentiment_app.py
+* App link: https://huggingface.co/spaces/kojoboyoo/newzanzibar 
 
+## Evaluation Results
+The models achieved competitive accuracies on the validation dataset, with evaluation losses providing insights into their performance.
+![image](https://github.com/doeabla/Sentiment_analysis/assets/137217264/bd9dfa3d-21c9-4fa8-a03d-7ee8013192d3)
+![image](https://github.com/doeabla/Sentiment_analysis/assets/137217264/99064a38-14c7-4b1d-802c-6744dd8f4c35)
+
+## Gradio App
+The Gradio app allows users to input text and receive sentiment predictions using the RoBERTa model in an interactive manner.
+![image](https://github.com/doeabla/Sentiment_analysis/assets/137217264/781c43ca-accd-42ee-ac62-fc908d67d1a5)
+
+![image](https://github.com/doeabla/Sentiment_analysis/assets/137217264/9159f3a6-afd1-4df0-94f9-2aab8856357c)
+
+## Acknowledgements
+We would like to thank Azubi Africa for the opportunity to learn how to perform a sentiment analysis using huggingface and build an app with gradio and the team who made this possible inspite of the setbacks.
+
+## Authors
+| Name | GitHub link |
+| ---- | ---- |
+| Doe Edinam                   | https://github.com/doeabla         |
+| Kofi Asare Bamfo             | https://github.com/akbamfo         |
+| Enoch Taylor-Nketiah         | https://github.com/kojoboyoo       |
+| Philip Tolutope Oludipe       |        |
+
+
+
+
+| Project |	Name |	Published Article |	Deployed app|
+| ---- | -----| ----- | -----|
+| LP5	| Sentiment analysis |	[Sentiment analysis_LP5](https://medium.com/@eadoe97/empowering-retail-businesses-the-retail-store-sales-prediction-app-2b0a8fbaba80) |[Hugging Face Model](https://huggingface.co/spaces/kojoboyoo/newzanzibar) |

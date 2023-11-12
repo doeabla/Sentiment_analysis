@@ -80,4 +80,4 @@ We would like to thank Azubi Africa for the opportunity to learn how to perform 
 
 | Project |	Name |	Published Article |	Deployed app|
 | ---- | -----| ----- | -----|
-| LP5	| Sentiment analysis |	[Sentiment analysis_LP5](https://medium.com/@eadoe97/empowering-retail-businesses-the-retail-store-sales-prediction-app-2b0a8fbaba80) |[Hugging Face Model](https://huggingface.co/spaces/kojoboyoo/newzanzibar) |
+| LP5	| Sentiment analysis |	[Sentiment analysis_LP5](https://medium.com/@eadoe97/empowering-sentiment-analysis-on-covid-vaccination-tweets-with-hugging-face-transformers-eecab34c86f1) |[Hugging Face Model](https://huggingface.co/spaces/kojoboyoo/newzanzibar) |

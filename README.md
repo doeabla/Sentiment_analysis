@@ -11,13 +11,18 @@ This sentiment analysis project leverages state-of-the-art language models, incl
 * Hugging Face Integration: Leverages Hugging Face's Model Hub for easy access to pre-trained language models, including RoBERTa, BERT, and DistilBERT.
 
 ## Requirements
-Python 3.x
-Required Python packages specified in requirements.txt
-Hugging Face Transformers Library
-Gradio Library
+* Python 3.x
+* Required Python packages specified in requirements.txt
+* Hugging Face Transformers Library
+* Gradio Library
 
 ## Usage
+Download the datasets used for this project in the dataset folder. 
+* The dataset consists of tweets collected and classified through Dataset.
 
+* Tweets have been labeled as positive (👍), neutral (🤐), or negative(👎).
+
+* Usernames and web addresses have been removed for privacy reasons.
 ### Installation
 
 1. Clone the repository:
